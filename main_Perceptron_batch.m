@@ -32,7 +32,9 @@ filename = strcat('PBP_orl_',etaSTR);
 save(filename)
 
 %% %%%%%%%%%%%%%%%%%%%% MNIST MNIST MNIST MNIST %%%%%%%%%%%%%%%%%%%%%%%%%%
-[train_images,test_images,train_labels,test_labels] = load_MNIST();
+clear all 
+loaddata
+
 [train_images, train_labels, ~, ~] = divideRandExtended(train_images,train_labels,1,0,0);
 [test_images, test_labels, ~, ~] = divideRandExtended(test_images,test_labels,1,0,0);
 

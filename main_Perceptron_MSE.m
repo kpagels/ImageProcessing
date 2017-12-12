@@ -25,10 +25,10 @@ save(filename)
 
 %% %%%%%%%%%%%%%%%%%%%% MNIST MNIST MNIST MNIST %%%%%%%%%%%%%%%%%%%%%%%%%%
 clear all
+loaddata
 acc = [];
 % change these to change the distribution of the data
 trainRatio = 0.7; testRatio = 0.3;
-[train_images,test_images,train_labels,test_labels] = load_MNIST();
 
 runtime = 1;
 for i = 1:runtime
