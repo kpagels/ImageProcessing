@@ -1,5 +1,5 @@
 # ImageProcessing
-This includes code for 5 different classifiers; nearest centroid, nearest neighbor, nearest sub-class classifier, perceptron using batch and perceptron using mse. The MNIST DATABASE need to be downloaded and put in the MNIST folder. They are too large to be uploaded on GITHUB.
+This includes code for 5 different classifiers; nearest centroid, nearest neighbor, nearest sub-class classifier, perceptron using batch and perceptron using mse. To test the classifiers the MNIST and ORL dataset has been used. The MNIST DATABASE need to be downloaded and put in the MNIST folder since they were too large to be uploaded on GITHUB.
 
 ```
 THE MNIST DATABASE of handwritten digits
