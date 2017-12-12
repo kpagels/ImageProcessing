@@ -1,8 +1,27 @@
 # ImageProcessing
 This git hub folder includes code for 5 different classifiers and scripts for plotting. The MNIST and ORL data are used.
-```
-5 main files for running the classifiers are the following:
-```
+
+The main files:
+* main_nearestClassifier.m
+* main_nearestNeighbor.m
+* main_nearestsubClassifier.m
+* main_Perceptron_batch.m
+* main_Perceptron_MSE.m
+
+Helper functions
+* calculateAccuracy.m
+* divideRandExtended.m
+* dividerandSeperate.m
+
+The files for loading the MNIST and ORL data sets.
+* load_MNIST.m
+* loaddata.m
+* loaddataFunc.m
+* loadMNISTImages.m
+* loadMNISTLabels.m
+* orl_data.mat
+* orl_lbls.mat
+
 ### Nearest Centroid Classifier
 The main file for the nearest centroid classifier are
 ```
