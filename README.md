@@ -4,28 +4,45 @@ This git hub folder includes code for 5 different classifiers and scripts for pl
 5 main files for running the classifiers are the following:
 ```
 ### Nearest Centroid Classifier
-The main file for the nearest centroid classifier is
+The main file for the nearest centroid classifier are
 ```
 main_nearestClassifier.m
 ```
+Which has the following files for training and testing:
 * trainingNCC.m / trainingNCC2.m - training the data set.
 * testNCC.m - testing the data set.
 
 ### Nearest Neighbor Classifier
-main_nearestNeighbor
+The main file for the nearest neighbor classifier are
+```
+main_nearestNeighbor.m
+```
+Which has the following file for testing:
 * testNCC.m
         
 ### Nearest Sub-class Classifier
-main_nearestsubClassifier
+The main file for the nearest sub-class classifier are
+```
+main_nearestsubClassifier.m
+```
+Which has the following file for training:
 * trainingNSC.m
         
 ### Perceptron trained using Backpropagation 
-main_Perceptron_batch
-* testPBP.m
+The main file for the perceptron trained using Backpropagation are
+```
+main_Perceptron_batch.m
+```
+Which has the follwoing files for training and testing:
 * trainingPBP.m
+* testPBP.m
         
 ### Perceptron using Mean Square Error
+The main file for the perceptron using mean square error are:
+```
 main_Perceptron_MSE.m
+```
+Which has the follwoing file for training:
 * trainingMSE.m
 
 
