@@ -1,9 +1,9 @@
 # ImageProcessing
 Code for different classifiers and scripts for plotting. MNIST and ORL data are used.
-
+```
 5 main files for running the classifiers are the following:
-
-
+```
+## Nearest Centroid Classifier
 1) main_nearestClassifier
         a) testNCC.m 
         b) trainingNCC.m / trainingNCC2.m
