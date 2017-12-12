@@ -14,9 +14,6 @@ Before you can use the codes:
 ```
 Download the MNIST DATASET and put them in the folder MNIST.
 ```
-
-# Matlab files
-
 The main files:
 * main_nearestClassifier.m
 * main_nearestNeighbor.m
