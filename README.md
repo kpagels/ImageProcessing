@@ -1,21 +1,28 @@
 # ImageProcessing
-Code for different classifiers and scripts for plotting. MNIST and ORL data are used.
+This git hub folder includes code for 5 different classifiers and scripts for plotting. The MNIST and ORL data are used.
 ```
 5 main files for running the classifiers are the following:
 ```
-## Nearest Centroid Classifier
-1) main_nearestClassifier
-        a) testNCC.m 
-        b) trainingNCC.m / trainingNCC2.m
+### Nearest Centroid Classifier
+main_nearestClassifier
+testNCC.m 
+trainingNCC.m / trainingNCC2.m
 
-2) main_nearestNeighbor
+### Nearest Neighbor Classifier
+main_nearestNeighbor
         a) testNCC.m
-3) main_nearestsubClassifier
+        
+### Nearest Sub-class Classifier
+main_nearestsubClassifier
         a) trainingNSC.m
-4) main_Perceptron_batch
+        
+### Perceptron trained using Backpropagation 
+main_Perceptron_batch
         a) testPBP.m
         b) trainingPBP.m
-5) main_Perceptron_MSE.m
+        
+### Perceptron using Mean Square Error
+main_Perceptron_MSE.m
         a) trainingMSE.m
 
 
