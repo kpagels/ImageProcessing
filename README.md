@@ -1,5 +1,5 @@
 # ImageProcessing
-This git hub folder includes code for 5 different classifiers. The MNIST DATABASE need to be downloaded and put in the MNIST folder. They are too large to be uploaded on GITHUB.
+This includes code for 5 different classifiers. The MNIST DATABASE need to be downloaded and put in the MNIST folder. They are too large to be uploaded on GITHUB.
 
 ```
 THE MNIST DATABASE of handwritten digits
