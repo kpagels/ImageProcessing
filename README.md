@@ -1,5 +1,15 @@
 # ImageProcessing
-This git hub folder includes code for 5 different classifiers and scripts for plotting. The MNIST and ORL data are used.
+This git hub folder includes code for 5 different classifiers. The MNIST DATABASE need to be downloaded and put in the MNIST folder. They are too large to be uploaded on GITHUB.
+
+```
+THE MNIST DATABASE of handwritten digits
+
+Yann LeCun, Courant Institute, NYU
+Corinna Cortes, Google Labs, New York
+Christopher J.C. Burges, Microsoft Research, Redmond
+
+Dataset can be downloaded at http://yann.lecun.com/exdb/mnist/
+```
 
 The main files:
 * main_nearestClassifier.m
