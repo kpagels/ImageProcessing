@@ -4,10 +4,12 @@ This git hub folder includes code for 5 different classifiers and scripts for pl
 5 main files for running the classifiers are the following:
 ```
 ### Nearest Centroid Classifier
-The Nearest Centroid Classifier has the 
-main_nearestClassifier
-* testNCC.m 
-* trainingNCC.m / trainingNCC2.m
+The main file for the nearest centroid classifier is
+```
+main_nearestClassifier.m
+```
+* trainingNCC.m / trainingNCC2.m - training the data set.
+* testNCC.m - testing the data set.
 
 ### Nearest Neighbor Classifier
 main_nearestNeighbor
