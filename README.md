@@ -1,4 +1,4 @@
-# ImageProcessing
+# ImageProcessing with MNIST and ORL dataset
 This includes code for 5 different classifiers; nearest centroid, nearest neighbor, nearest sub-class classifier, perceptron using batch and perceptron using mse. To test the classifiers the MNIST and ORL dataset has been used. The MNIST DATABASE need to be downloaded and put in the MNIST folder since they were too large to be uploaded on GITHUB.
 
 ```
@@ -10,7 +10,7 @@ Christopher J.C. Burges, Microsoft Research, Redmond
 
 Dataset can be downloaded at http://yann.lecun.com/exdb/mnist/
 ```
-Before starting
+Before you can use the codes:
 ```
 Download the MNIST DATASET and put them in the folder MNIST.
 ```
