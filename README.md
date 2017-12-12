@@ -10,8 +10,10 @@ Christopher J.C. Burges, Microsoft Research, Redmond
 
 Dataset can be downloaded at http://yann.lecun.com/exdb/mnist/
 ```
-## Before starting
+Before starting
+```
 Download the MNIST DATASET and put them in the folder MNIST.
+```
 
 # Matlab files
 
